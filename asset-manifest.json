@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dictionary14lang/static/css/main.8d6a4799.chunk.css",
+    "main.js": "/Dictionary14lang/static/js/main.ce408816.chunk.js",
+    "main.js.map": "/Dictionary14lang/static/js/main.ce408816.chunk.js.map",
+    "runtime-main.js": "/Dictionary14lang/static/js/runtime-main.a7bbfe7a.js",
+    "runtime-main.js.map": "/Dictionary14lang/static/js/runtime-main.a7bbfe7a.js.map",
+    "static/js/2.bb1f21cf.chunk.js": "/Dictionary14lang/static/js/2.bb1f21cf.chunk.js",
+    "static/js/2.bb1f21cf.chunk.js.map": "/Dictionary14lang/static/js/2.bb1f21cf.chunk.js.map",
+    "index.html": "/Dictionary14lang/index.html",
+    "static/css/main.8d6a4799.chunk.css.map": "/Dictionary14lang/static/css/main.8d6a4799.chunk.css.map",
+    "static/js/2.bb1f21cf.chunk.js.LICENSE.txt": "/Dictionary14lang/static/js/2.bb1f21cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7bbfe7a.js",
+    "static/js/2.bb1f21cf.chunk.js",
+    "static/css/main.8d6a4799.chunk.css",
+    "static/js/main.ce408816.chunk.js"
+  ]
+}
